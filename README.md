@@ -16,7 +16,7 @@ React Component Library for Things Nepali
     ```
     registry=https://registry.npmjs.org/
     @nitishkaf:registry=https://npm.pkg.github.com/
-    //npm.pkg.github.com/:_authToken=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
+    //npm.pkg.github.com/:_authToken=TOKEN
     ```
 3. Install the package
    ```
