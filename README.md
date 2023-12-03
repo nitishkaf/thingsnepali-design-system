@@ -18,3 +18,7 @@ React Component Library for Things Nepali
     @nitishkaf:registry=https://npm.pkg.github.com/
     //npm.pkg.github.com/:_authToken=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
     ```
+3. Install the package
+   ```
+   npm i @nitishkaf/thingsnepali-design-system
+   ```
