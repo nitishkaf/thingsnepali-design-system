@@ -8,6 +8,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/nitishkaf"
   },
+  "repository":"https://github.com/nitishkaf/thingsnepali-design-system",
   "files": [
     "dist"
   ],
