@@ -1,7 +1,8 @@
 {
   "name": "@nitishkaf/thingsnepali-design-system",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Things Nepali Design System Component Library",
+  "type": "module",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "publishConfig": {
